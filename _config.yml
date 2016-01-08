@@ -1,0 +1,28 @@
+name: refuel
+favicon: null
+layout_spectrum: 0.41755142505280674
+typography_spectrum: 0.9881459809839725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4702841613907367
+  lightness: 0.6266614189371467
+  saturation: 0.8691062177531421
+  rhythmicContrast: 0.14489146508276463
+purpose: []
